@@ -27,7 +27,7 @@ as complex as a full-blown code-editor
 - You do not need to add any syntax validation
 - The data that your application displays can be any chunk of data. It does not need to be
 the actual result that the query would display if it was actually run. You can choose any
-block of data from here or you can choose any other data source. The data and the
+block of data from [here](https://github.com/graphql-compose/graphql-compose-examples/tree/master/examples/northwind/data/csv) or you can choose any other data source. The data and the
 query do not need to be in sync.
 - You can write down any query you wish. The query is not important, nor is the result. You
 are free to put in dummy stubs and mocks wherever the need arises.
