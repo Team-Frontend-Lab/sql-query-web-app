@@ -18,7 +18,7 @@ You can use any tools you like to help you complete the assessment. So, if you h
 
 If you come across any design elements in the design file that are not specified in the requirements, you are only expected to create the UI. Developing functionality for these elements is optional.
 
-Requirements:
+**Requirements:**
 
 - **This is a dummy application**
 - You must include a space to accept SQL queries. This can be as simple as a textarea or
