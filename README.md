@@ -42,7 +42,7 @@ make the application just usable. Something that, if removed, would render the w
 application pointless.
 - Assume that a data analyst is going to use your application for an entire day. What are
 the features that will help them breeze through the day’s workload?
-- Use a JavaScript framework for your application, such as React, Vue.js, Svelte, or any
+- Use a JavaScript framework for your application, such as [React](https://react.dev), [Vue.js](https://vuejs.org), [Svelte](https://svelte.dev), or any
 other framework.
 
 Want some support on the challenge? [Join our community](https://discord.gg/ATStc5QVdv) and ask questions in the **#help** channel.
